@@ -54,7 +54,7 @@
 	
 ## How to run the application 
 
-1. ~~Preferably you'll should do a git clone from [my repo](https://github.com/Lwachira/offertrello)~~ Never mind I've deleted the repo, since I realized I left my api keys open.
+1. Preferably you'll should do a git clone from [my repo](https://github.com/Lwachira/offertrello)
 2. The site was built with Ruby 2.6.5 and Rails 6.1.1.
 3. You will need to update the API key in the App/views/layouts/application.html.erb 
 4. You should cd into the offertrello directory and run rails -s.
